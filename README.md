@@ -38,7 +38,7 @@ This has been tested on an x86_64 NAS (UGREEN DXP2800 with UGOS Pro). The base i
 This is the generic way and works on every system with Docker. Run it in a shell on the NAS or server (SSH), in a folder where the recordings may grow to several GB, for example `/volume1/docker/tapo-nas-archiver` on Synology, UGREEN or QNAP, `/mnt/user/appdata/tapo-nas-archiver` on Unraid, or `~/tapo-nas-archiver` on a plain Linux machine.
 
 ```bash
-git clone https://github.com/Githubtezla/tapo-nas-archiver.git
+git clone https://github.com/gittezla/tapo-nas-archiver.git
 cd tapo-nas-archiver
 ```
 
